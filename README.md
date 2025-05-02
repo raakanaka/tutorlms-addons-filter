@@ -3,7 +3,7 @@ Modified Tutor LMS with Filter Sidebar Menu
 
 # Add CSS Code
 
-#course-filter-sidebar {
+/ #course-filter-sidebar {
     background-color: #f9f9f9;
     padding: 16px;
     border-radius: 10px;
@@ -73,3 +73,4 @@ Modified Tutor LMS with Filter Sidebar Menu
     border-radius: 6px;
     border: 1px solid #ccc;
 }
+/
